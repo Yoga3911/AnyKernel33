@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Moonlight Kernel EAS - by frost_id @ telegram
+kernel.string=xxx Moonlight Kernel EAS for whyred and lavender xxxx
 do.devicecheck=1
 do.modules=0
 do.systemless=1
