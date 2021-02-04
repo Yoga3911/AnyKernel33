@@ -4,17 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=xxx Moonlight Kernel EAS for XiaoMi sdm660 xxx
+kernel.string=#UNubSarGang Kernel for whyred - by frost_id @ telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=whyred
-device.name2=lavender
-device.name3=jasmine
-device.name4=jasmine_sprout
-device.name5=wayne
 supported.versions=9 - 11
 supported.patchlevels=
 '; } # end properties
