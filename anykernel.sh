@@ -15,6 +15,7 @@ device.name2=lavender
 device.name3=jasmine
 device.name4=jasmine_sprout
 device.name5=wayne
+device.name6=tulip
 supported.versions=9 - 11
 supported.patchlevels=
 '; } # end properties
