@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Excalibur Kernel EAS Lavender
+kernel.string=Excalibur Kernel | Lavender
 do.devicecheck=1
 do.modules=0
 do.systemless=1
